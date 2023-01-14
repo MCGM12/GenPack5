@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: -6.5d,
+	dependencies: [
+		"fc15be91"
+	],
+	tasks: [{
+		uid: "ed21fd7e",
+		type: "item",
+		items: [{
+			item: "taiga:valyrium_ore"
+		},
+		{
+			item: "taiga:uru_ore"
+		}]
+	}]
+}

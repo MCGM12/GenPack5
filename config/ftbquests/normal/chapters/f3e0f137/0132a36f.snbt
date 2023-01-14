@@ -1,0 +1,19 @@
+{
+	title: "Then with the parts you stenciled together, you stencilify them together",
+	x: 6.5d,
+	y: -2.5d,
+	description: "Yes.",
+	text: [
+		"Now you can make your own tools. You can also swap parts out so you dont have to go make a new pickaxe to upgrade it, just slap on a new handle."
+	],
+	dependencies: [
+		"b0ba23b9"
+	],
+	tasks: [{
+		uid: "b2ce497d",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	}]
+}

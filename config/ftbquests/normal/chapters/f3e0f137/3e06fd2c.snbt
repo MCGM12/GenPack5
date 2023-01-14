@@ -1,0 +1,32 @@
+{
+	title: "The Largest Boom",
+	icon: {
+		ForgeCaps: {
+			Parent: {
+				explosive: {}
+			}
+		},
+		id: "icbmclassic:missile",
+		Damage: 23s
+	},
+	x: 16.0d,
+	y: 3.5d,
+	description: "The world burning isnt enough, I need more",
+	text: [
+		"The explosives in ICBM are no joke. Going anywhere from summoning the power of the sun, making black holes, or c4.",
+		"Tread with extreme caution."
+	],
+	tasks: [{
+		uid: "a41f62bc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					battery: 0
+				}
+			},
+			id: "icbmclassic:battery"
+		}],
+		ignore_nbt: 1b
+	}]
+}

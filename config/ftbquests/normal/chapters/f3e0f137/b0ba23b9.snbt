@@ -1,0 +1,33 @@
+{
+	title: "Oh you stencil the stencil to make parts with the stencil",
+	x: 5.5d,
+	y: -3.5d,
+	description: "Wood + wood = durable stick",
+	text: [
+		"Can make parts using stencils. Just remember it doesnt work with metal parts, you need to make a cast for that.",
+		"Which means you will need to make some stone parts to use for the cast."
+	],
+	dependencies: [
+		"d2399961"
+	],
+	tasks: [{
+		uid: "f90e5e06",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 2s
+		}]
+	}],
+	rewards: [{
+		uid: "6fb54365",
+		type: "item",
+		item: "tconstruct:tooltables 1 5"
+	}]
+}

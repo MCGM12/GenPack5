@@ -1,0 +1,18 @@
+{
+	title: "Not very speedy furnace",
+	x: 8.0d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"6c67f458"
+	],
+	tasks: [{
+		uid: "52d89bbc",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}]
+}

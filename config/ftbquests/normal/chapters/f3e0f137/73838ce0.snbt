@@ -1,0 +1,17 @@
+{
+	title: "TAIGA ores",
+	x: 8.0d,
+	y: -4.5d,
+	description: "Hardest ores around",
+	text: [
+		"These are new levels of ores that you can mine, and the modifiers they give your pickaxe can be pretty neat.",
+		"There are also a plethora of alloys you can make with each ore, so do some looking around."
+	],
+	dependencies: [
+		"45b70233"
+	],
+	tasks: [{
+		uid: "2fe5bb46",
+		type: "checkmark"
+	}]
+}

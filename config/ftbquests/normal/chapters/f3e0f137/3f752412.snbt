@@ -1,0 +1,28 @@
+{
+	title: "Harder Than Obsidian",
+	x: 8.0d,
+	y: -5.5d,
+	description: "And more interesting too",
+	text: [
+		""
+	],
+	dependencies: [
+		"be3a0f13"
+	],
+	tasks: [{
+		uid: "503d9597",
+		type: "item",
+		items: [{
+			item: "taiga:aurorium_ore"
+		},
+		{
+			item: "taiga:karmesine_ore"
+		},
+		{
+			item: "taiga:osram_ore"
+		},
+		{
+			item: "taiga:abyssum_ore"
+		}]
+	}]
+}

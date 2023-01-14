@@ -1,7 +1,7 @@
 {
 	title: "It's like a ghost, but like.. It punches things",
-	x: 6.0d,
-	y: 1.5d,
+	x: 11.0d,
+	y: 3.5d,
 	text: [
 		"You know damn well what time it is, It's time for a BEATDOWN! HEYO!"
 	],

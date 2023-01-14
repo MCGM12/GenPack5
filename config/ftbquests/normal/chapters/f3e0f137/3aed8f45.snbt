@@ -1,0 +1,20 @@
+{
+	title: "Better Crafting Table",
+	x: 5.5d,
+	y: -1.5d,
+	description: "Gen you can't fix how short you are by making the table taller",
+	text: [
+		"Keeps items inside of the bench even when you close it.",
+		"Also connects with adjacent tinkers Tools workstations!"
+	],
+	dependencies: [
+		"6c67f458"
+	],
+	tasks: [{
+		uid: "246a63da",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables"
+		}]
+	}]
+}

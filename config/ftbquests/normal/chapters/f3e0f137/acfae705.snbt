@@ -1,11 +1,14 @@
 {
 	title: "Speedier Furnace",
-	x: 17.0d,
-	y: 8.0d,
+	x: 7.0d,
+	y: 2.0d,
 	description: "5 Second smelt",
 	text: [
 		"Just as powerful as my toaster, but cost inefficient.",
 		"5/10, wouldn't craft again"
+	],
+	dependencies: [
+		"ad87b86b"
 	],
 	tasks: [{
 		uid: "ed1103d6",

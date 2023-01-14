@@ -1,0 +1,32 @@
+{
+	title: "How do you stencil a table",
+	x: 4.5d,
+	y: -2.5d,
+	description: "Head empty no more",
+	text: [
+		"You likely will need a few blank patterns to make stencils of all the parts you may ever need."
+	],
+	dependencies: [
+		"3aed8f45"
+	],
+	tasks: [{
+		uid: "cbaf0e89",
+		type: "item",
+		items: [{
+			id: "tconstruct:tooltables",
+			tag: {
+				textureBlock: {
+					id: "minecraft:planks",
+					Count: 1b,
+					Damage: 0s
+				}
+			},
+			Damage: 1s
+		}]
+	}],
+	rewards: [{
+		uid: "7e13d14e",
+		type: "item",
+		item: "tconstruct:tooltables 1 4"
+	}]
+}

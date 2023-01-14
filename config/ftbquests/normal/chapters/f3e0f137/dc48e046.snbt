@@ -1,6 +1,15 @@
 {
-	x: 17.0d,
-	y: 10.0d,
+	title: "Speediester Furnace",
+	x: 7.0d,
+	y: 3.0d,
+	description: "1 Second smelt",
+	text: [
+		"Ah finally, a furnace to rival the horsepower of my hamster.",
+		"a solid 8/10"
+	],
+	dependencies: [
+		"07ab3265"
+	],
 	tasks: [{
 		uid: "51199149",
 		type: "item",

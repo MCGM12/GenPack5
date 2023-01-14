@@ -1,10 +1,14 @@
 {
 	title: "Speediest Furnace",
-	x: 17.0d,
-	y: 9.0d,
+	x: 8.0d,
+	y: 2.5d,
 	description: "3 second smelt",
 	text: [
-		""
+		"My guy this thing is worth thousands of dollars, why would you ever make this.",
+		"Its just as powerful as my oven, for the price of a house? naw 3/10"
+	],
+	dependencies: [
+		"acfae705"
 	],
 	tasks: [{
 		uid: "b50fb973",

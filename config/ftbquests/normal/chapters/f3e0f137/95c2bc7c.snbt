@@ -1,0 +1,35 @@
+{
+	title: "Moving Platforms",
+	icon: "movingelevators:elevator_block",
+	x: 22.0d,
+	y: 3.5d,
+	description: "Its like magic, it just works.",
+	text: [
+		"The Controller is how you move between floors. Put them above one another to set floor levels.",
+		"To adjust the elevator, right click a side without a face.",
+		"The display isn't mandatory, but it makes things look nicer, so its mandatory.",
+		"The Remote Elevator Panel is well, a remote version that you can put to the side.",
+		"Also you can disguise the blocks. Just right click it with the block you want to use."
+	],
+	tasks: [{
+		uid: "f5da73b1",
+		type: "item",
+		items: [{
+			item: "movingelevators:elevator_block"
+		}]
+	},
+	{
+		uid: "5eca127d",
+		type: "item",
+		items: [{
+			item: "movingelevators:display_block"
+		}]
+	},
+	{
+		uid: "122b79f1",
+		type: "item",
+		items: [{
+			item: "movingelevators:button_block"
+		}]
+	}]
+}

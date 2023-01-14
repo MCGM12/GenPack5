@@ -1,0 +1,20 @@
+{
+	title: "Explodey ore",
+	x: 7.0d,
+	y: -5.0d,
+	description: "Finally, an ore that will fight back",
+	text: [
+		"You find this in the nether, and it has a chance of exploding when you mine it.",
+		"you will need a stone pickaxe or higher to mine it."
+	],
+	dependencies: [
+		"73838ce0"
+	],
+	tasks: [{
+		uid: "f06037cc",
+		type: "item",
+		items: [{
+			item: "taiga:tiberium_ore"
+		}]
+	}]
+}

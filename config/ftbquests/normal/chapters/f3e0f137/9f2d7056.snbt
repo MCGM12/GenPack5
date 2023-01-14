@@ -1,0 +1,14 @@
+{
+	x: 7.0d,
+	y: -7.0d,
+	dependencies: [
+		"ae7a872c"
+	],
+	tasks: [{
+		uid: "c3bba843",
+		type: "item",
+		items: [{
+			item: "taiga:vibranium_ore"
+		}]
+	}]
+}
