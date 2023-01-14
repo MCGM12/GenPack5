@@ -1,0 +1,20 @@
+{
+	title: "Just a little bit of blood loss doesn't hurt",
+	x: 16.0d,
+	y: -2.0d,
+	description: "Tis only a flesh wound",
+	text: [
+		"stab yourself. No balls pussy"
+	],
+	tasks: [{
+		uid: "d2cf9339",
+		type: "item",
+		items: [{
+			id: "bloodmagic:sacrificial_dagger",
+			tag: {
+				sacrifice: 0b
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

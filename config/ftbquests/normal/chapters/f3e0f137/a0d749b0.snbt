@@ -1,0 +1,49 @@
+{
+	title: "Get Pickin' Nigger",
+	x: 12.0d,
+	y: 8.0d,
+	shape: "octagon",
+	text: [
+		"Better be workin' hard Nigger"
+	],
+	can_repeat: true,
+	size: 8.0d,
+	tasks: [{
+		uid: "e56f23ec",
+		type: "item",
+		icon: "harvestcraft:cottonitem",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "cropCotton",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any cropCotton"
+				}
+			}
+		}],
+		count: 250L
+	}],
+	rewards: [{
+		uid: "aca41a49",
+		type: "item",
+		item: {
+			id: "soot:mug",
+			tag: {
+				Fluid: {
+					FluidName: "boiling_potato_juice",
+					Amount: 250
+				}
+			}
+		}
+	},
+	{
+		uid: "d075dc7b",
+		type: "item",
+		item: "minecraft:poisonous_potato"
+	}]
+}

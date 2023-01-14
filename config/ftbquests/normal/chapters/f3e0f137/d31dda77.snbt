@@ -1,0 +1,18 @@
+{
+	title: "Its not a wrench",
+	x: 20.0d,
+	y: -2.0d,
+	description: "or maybe it is a wrench",
+	text: [
+		"for environmental tech, you can mine stuff from the void and power stuff"
+	],
+	tasks: [{
+		uid: "399fbf17",
+		type: "item",
+		items: [{
+			item: "environmentaltech:tool_multiblock_assembler"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

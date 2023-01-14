@@ -1,0 +1,35 @@
+{
+	title: "Dang, gen's so short she has to break the tree before she can use it LMAO",
+	x: 2.5d,
+	y: 0.0d,
+	text: [
+		"Hawhaw imagine being 2 logs tall. Shorty"
+	],
+	dependencies: [
+		"1e5985ba"
+	],
+	tasks: [{
+		uid: "24ab9161",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "logWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any logWood"
+				}
+			}
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "b91ccbee",
+		type: "item",
+		item: "minecraft:dye 1 15"
+	}]
+}

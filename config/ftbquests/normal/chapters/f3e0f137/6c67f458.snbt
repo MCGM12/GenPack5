@@ -1,0 +1,25 @@
+{
+	title: "Bonemeal won't help how short Gen is, however you can use that wood for a cool Crafting Table!",
+	x: 4.5d,
+	y: 0.0d,
+	text: [
+		"Sorry Gen, You're short and will always be short. J loves you for being short tho!"
+	],
+	dependencies: [
+		"7b5414fe"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "67673ce8",
+		type: "item",
+		items: [{
+			item: "minecraft:crafting_table"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "347521f2",
+		type: "item",
+		item: "minecraft:crafting_table"
+	}]
+}

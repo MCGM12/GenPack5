@@ -1,0 +1,16 @@
+{
+	title: "Armor is pain",
+	x: 10.0d,
+	y: -2.0d,
+	description: "I'm sorry it has to be this way",
+	text: [
+		"you want cool armor? Earn it lmao"
+	],
+	tasks: [{
+		uid: "9611ca05",
+		type: "item",
+		items: [{
+			item: "armorplus:workbench"
+		}]
+	}]
+}

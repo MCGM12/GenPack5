@@ -1,0 +1,21 @@
+{
+	x: 1.0d,
+	y: -2.0d,
+	description: "Like seriously change them",
+	text: [
+		"There are a lot of conflicts in the keybindings, you should go change them(I'l give you a cookie for it)"
+	],
+	dependencies: [
+		"1e5985ba"
+	],
+	tasks: [{
+		uid: "9feae7a1",
+		type: "checkmark",
+		title: "Your bindings are wack"
+	}],
+	rewards: [{
+		uid: "1ac92c13",
+		type: "item",
+		item: "actuallyadditions:item_food 1 12"
+	}]
+}

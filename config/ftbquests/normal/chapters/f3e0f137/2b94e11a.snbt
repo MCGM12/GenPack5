@@ -1,0 +1,16 @@
+{
+	title: "A Flying Fortress",
+	x: 8.0d,
+	y: -2.0d,
+	description: "Jeshie, we need to fly",
+	text: [
+		"You ever wanted to make a flying meth la- *cough* flying ship?"
+	],
+	tasks: [{
+		uid: "f27f038c",
+		type: "item",
+		items: [{
+			item: "davincisvessels:marker"
+		}]
+	}]
+}

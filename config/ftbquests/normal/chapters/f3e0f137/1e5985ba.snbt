@@ -1,0 +1,15 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	description: "So what do I do?",
+	text: [
+		"This modpack is about having a good ol time, and making the worlds greatest shitbox of a pc."
+	],
+	size: 2.0d,
+	tasks: [{
+		uid: "8bda3ac4",
+		type: "checkmark",
+		title: "Rather Wacky Moment",
+		icon: "memeinabottle:meme_in_a_bottle"
+	}]
+}

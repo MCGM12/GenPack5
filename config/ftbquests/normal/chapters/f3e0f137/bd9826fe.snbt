@@ -1,0 +1,17 @@
+{
+	title: "Hammer go bOnK",
+	x: 14.0d,
+	y: -2.0d,
+	description: "make immersive machine do machine thing",
+	text: [
+		"its a cool ol thing to make big machine"
+	],
+	tasks: [{
+		uid: "de3462da",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	}]
+}
