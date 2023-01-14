@@ -1,0 +1,14 @@
+{
+	x: 17.0d,
+	y: 10.0d,
+	tasks: [{
+		uid: "51199149",
+		type: "item",
+		items: [{
+			item: "ironfurnaces:glass_furnace_idle"
+		},
+		{
+			item: "ironfurnaces:obsidian_furnace_idle"
+		}]
+	}]
+}

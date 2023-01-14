@@ -1,0 +1,20 @@
+{
+	title: "For all of those extra heart needs",
+	x: 5.0d,
+	y: 8.0d,
+	description: "Food doesnt give bonus health",
+	text: [
+		"There aren't many ways to boost your hp, this is an easy to understand way to boost your hp.",
+		"Equip it in your baubles. Then insert up to 10 heart canisters of each color.",
+		"Free hp amiright"
+	],
+	tasks: [{
+		uid: "fdec10b3",
+		type: "item",
+		items: [{
+			item: "bhc:heart_amulet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

@@ -1,0 +1,21 @@
+{
+	title: "Red Heart Canister",
+	x: 2.5d,
+	y: 8.0d,
+	description: "First set of new hearts",
+	text: [
+		"you likely have some of these already, they drop from regular mobs.",
+		"You can also eat them for health!"
+	],
+	dependencies: [
+		"637d4141"
+	],
+	tasks: [{
+		uid: "d407f2a8",
+		type: "item",
+		items: [{
+			item: "bhc:red_heart_canister"
+		}],
+		count: 10L
+	}]
+}

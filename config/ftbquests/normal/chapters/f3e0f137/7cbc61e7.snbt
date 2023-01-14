@@ -1,0 +1,28 @@
+{
+	title: "Gregtech is pain",
+	x: 20.0d,
+	y: 3.5d,
+	description: "it really is, you have been warned",
+	text: [
+		"All of the ores for gregtech have been moved to the mining dimension.",
+		"Feel free to ignore it, theirs no harm in ignoring this painful mod.",
+		"And dont try going here to use the ores for other things, unless you get started in gregtech you cant use most of them."
+	],
+	tasks: [{
+		uid: "c7d5d694",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:portalframe"
+		}],
+		count: 6L
+	},
+	{
+		uid: "e36cd2f9",
+		type: "item",
+		items: [{
+			item: "aroma1997sdimension:miningmultitool"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

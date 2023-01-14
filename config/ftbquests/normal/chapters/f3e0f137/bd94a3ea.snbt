@@ -1,0 +1,21 @@
+{
+	title: "Green Heart Canister",
+	x: 7.5d,
+	y: 8.0d,
+	description: "Third row of new hearts",
+	text: [
+		"These can be a little tricky to get, especially if you want the full set of 10. Good luck :)",
+		"These drop from the Ender Dragon only."
+	],
+	dependencies: [
+		"637d4141"
+	],
+	tasks: [{
+		uid: "aaf1d810",
+		type: "item",
+		items: [{
+			item: "bhc:green_heart_canister"
+		}],
+		count: 10L
+	}]
+}

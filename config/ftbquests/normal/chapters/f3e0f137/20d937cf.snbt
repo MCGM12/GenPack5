@@ -1,0 +1,21 @@
+{
+	title: "Blue Heart Canister",
+	x: 6.5d,
+	y: 9.5d,
+	description: "Fourth row of new hearts",
+	text: [
+		"Im sorry these are annoying to get, consider checking the bounty board if you want more.",
+		"You get these from *only* the Envoker. its dumb ik"
+	],
+	dependencies: [
+		"637d4141"
+	],
+	tasks: [{
+		uid: "95b4830b",
+		type: "item",
+		items: [{
+			item: "bhc:blue_heart_canister"
+		}],
+		count: 10L
+	}]
+}

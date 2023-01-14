@@ -32,3 +32,12 @@ CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, ve
 [18:08:57] [Client thread/INFO] [WaypointStore] Loaded 11 waypoints from C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\waypoints
 [18:08:58] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM0. Memory: 5947MB total, 1958MB free 
 [18:08:58] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[19:10:26] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM0
+[19:10:26] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:10:26] [Client thread/INFO] [WaypointStore] Loaded 11 waypoints from C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\waypoints
+[19:10:26] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM-11325. Memory: 4032MB total, 958MB free 
+[19:12:13] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM-11325
+[19:12:13] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:12:13] [Client thread/INFO] [WaypointStore] Loaded 11 waypoints from C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\waypoints
+[19:12:13] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM0. Memory: 4566MB total, 614MB free 
+[20:02:40] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM0

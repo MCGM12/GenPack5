@@ -1,0 +1,17 @@
+{
+	title: "Gotta Collect them all!",
+	x: 18.0d,
+	y: 3.5d,
+	description: "Except some, I dont like those ones.",
+	text: [
+		"Make it from bounty board rewards, will give you a random pet from the wide variety of pets."
+	],
+	tasks: [{
+		uid: "5cd9701f",
+		type: "item",
+		items: [{
+			item: "inventorypets:meta_pet"
+		}],
+		ignore_nbt: 1b
+	}]
+}

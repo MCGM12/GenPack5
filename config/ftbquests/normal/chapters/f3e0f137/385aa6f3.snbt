@@ -1,0 +1,21 @@
+{
+	title: "Yellow Heart Canister",
+	x: 3.5d,
+	y: 9.5d,
+	description: "Second set of new hearts",
+	text: [
+		"These arent too bad to get with the plethora of boss mobs.",
+		"They drop from boss mobs."
+	],
+	dependencies: [
+		"637d4141"
+	],
+	tasks: [{
+		uid: "075e7a29",
+		type: "item",
+		items: [{
+			item: "bhc:yellow_heart_canister"
+		}],
+		count: 10L
+	}]
+}

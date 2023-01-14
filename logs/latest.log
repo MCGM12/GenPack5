@@ -12834,3 +12834,223 @@ com.google.gson.JsonSyntaxException: Expected item to be an item, was unknown st
 [18:14:12] [Client thread/INFO]: Registering new ResourceLocation: cyberware:textures/models/skin.png
 [18:14:12] [Client thread/WARN]: GUI did not draw the dark background layer behind itself, this may result in display issues: flaxbeard.cyberware.client.gui.GuiSurgery
 [18:14:22] [Client thread/WARN]: GUI did not draw the dark background layer behind itself, this may result in display issues: flaxbeard.cyberware.client.gui.GuiBlueprintArchive
+[18:25:57] [Server thread/INFO]: Saving and pausing game...
+[18:25:57] [Server thread/INFO]: Saving chunks for level 'Superflat'/overworld
+[18:25:57] [Server thread/INFO]: Saving chunks for level 'Superflat'/ExtraUtils2_Quarry_Dim
+[18:25:57] [Server thread/INFO]: Saving chunks for level 'Superflat'/Storage Cell
+[18:26:22] [Client thread/INFO]: [CHAT] To go through the portal, you have to sneak in it.
+[18:42:22] [Server thread/INFO]: NabotoGaming has made the advancement [Yellow Heart Canister]
+[18:42:22] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Yellow Heart Canister]
+[18:42:22] [Client thread/INFO]: Loaded 162 advancements
+[18:42:23] [Server thread/INFO]: NabotoGaming has made the advancement [Red Heart Canister]
+[18:42:23] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Red Heart Canister]
+[18:42:23] [Client thread/INFO]: Loaded 164 advancements
+[19:08:47] [Server thread/INFO]: [NabotoGaming: Set own game mode to Survival Mode]
+[19:08:47] [Client thread/INFO]: [CHAT] Your game mode has been updated to Survival Mode
+[19:08:57] [Server thread/INFO]: [NabotoGaming: Set own game mode to Creative Mode]
+[19:08:57] [Client thread/INFO]: [CHAT] Your game mode has been updated to Creative Mode
+[19:10:26] [Server thread/INFO]: Loading dimension -11325 (Superflat) (net.minecraft.server.integrated.IntegratedServer@14c96ccb)
+[19:10:26] [Server thread/INFO]: Creating aura cache for world -11325
+[19:10:26] [Client thread/INFO]: Mapping halted in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM0
+[19:10:26] [CraftPresence/ERROR]: Asset name "deep_dark" does not exist, attempting to use an alternative icon "unknown"...
+[19:10:26] [CraftPresence/INFO]: To add support for this icon, please request for this icon to be added to the default Client ID or add the icon under the following name: "deep_dark".
+[19:10:26] [CraftPresence/INFO]: Fallback icon for "deep_dark" found! Using a fallback icon with the name "unknown"!
+[19:10:26] [Server thread/INFO]: Transforming WorldGenDungeons...
+[19:10:26] [Server thread/INFO]: Successfully transformed WorldGenDungeons
+[19:10:26] [Client thread/WARN]: Adding entity that was not wrapped correctly a5ae9f21-af5d-49ea-b6c8-09f039af6301 - EntityPlayerSP['NabotoGaming'/464, l='MpServer', x=399.41, y=5.00, z=-773.45]
+[19:10:26] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:10:26] [Client thread/INFO]: Loaded 11 waypoints from C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\waypoints
+[19:10:26] [Client thread/INFO]: Mapping started in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM-11325. Memory: 4032MB total, 958MB free 
+[19:10:27] [Client thread/WARN]: Adding entity that was not wrapped correctly a5ae9f21-af5d-49ea-b6c8-09f039af6301 - EntityPlayerSP['NabotoGaming'/464, l='MpServer', x=8.50, y=65.00, z=8.50]
+[19:10:34] [Server thread/WARN]: Tried to over-fill a container
+[19:10:35] [Server thread/WARN]: Tried to over-fill a container
+[19:10:37] [Thread-77/INFO]: Starting aura thread for dim -11325
+[19:10:37] [Server thread/INFO]: Added minecraft:hopper to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:dropper to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:white_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:orange_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:magenta_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:light_blue_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:yellow_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:lime_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:pink_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:gray_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:silver_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:cyan_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:blue_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:brown_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:green_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:red_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added minecraft:black_shulker_box to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added betternether:chest_of_drawers to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added tconstruct:wooden_hopper to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added quark:custom_chest to the Lootr block replacement list.
+[19:10:37] [Server thread/INFO]: Added quark:custom_chest_trap to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added thaumcraft:hungry_chest to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added dawnoftimebuilder:spruce_low_table to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_chest to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_white to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_orange to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_magenta to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_light_blue to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_yellow to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_lime to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_pink to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_gray to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_silver to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_cyan to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_purple to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_blue to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_brown to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_green to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_red to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added ironchest:iron_shulker_box_black to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added byg:crate to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added byg:netherfurnacelit to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added iceandfire:jungle_myrmex_cocoon to the Lootr block replacement list.
+[19:10:38] [Server thread/INFO]: Added iceandfire:desert_myrmex_cocoon to the Lootr block replacement list.
+[19:10:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12556ms behind, skipping 251 tick(s)
+[19:10:55] [Server thread/WARN]: Tried to over-fill a container
+[19:10:58] [Client thread/INFO]: Loaded 168 advancements
+[19:11:16] [Server thread/WARN]: Tried to over-fill a container
+[19:11:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2918ms behind, skipping 58 tick(s)
+[19:11:26] [Client thread/INFO]: Unloaded world <net.minecraft.client.multiplayer.WorldClient@42b180b 0 MultiplayerChunkCache: 624, 624> is still hanging around after 60 seconds.
+[19:11:26] [Client thread/INFO]: This may be due to a world leak, or there is little memory pressure.
+[19:11:26] [Client thread/INFO]: Use the relevant FoamFix options to adjust the wait time.
+[19:12:13] [Client thread/INFO]: Mapping halted in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM-11325
+[19:12:13] [Client thread/WARN]: Adding entity that was not wrapped correctly a5ae9f21-af5d-49ea-b6c8-09f039af6301 - EntityPlayerSP['NabotoGaming'/464, l='MpServer', x=399.69, y=123.00, z=-829.30]
+[19:12:13] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[19:12:13] [Client thread/INFO]: Loaded 11 waypoints from C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\waypoints
+[19:12:13] [Client thread/INFO]: Mapping started in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM0. Memory: 4566MB total, 614MB free 
+[19:12:14] [Client thread/WARN]: Adding entity that was not wrapped correctly a5ae9f21-af5d-49ea-b6c8-09f039af6301 - EntityPlayerSP['NabotoGaming'/464, l='MpServer', x=399.50, y=4.00, z=-828.50]
+[19:13:13] [Client thread/INFO]: Unloaded world <net.minecraft.client.multiplayer.WorldClient@145188cc -11325 MultiplayerChunkCache: 531, 531> is still hanging around after 60 seconds.
+[19:16:06] [Server thread/INFO]: NabotoGaming has made the advancement [Somehow like a Nether Star]
+[19:16:06] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Somehow like a Nether Star]
+[19:16:06] [Client thread/INFO]: Loaded 168 advancements
+[19:17:53] [Server thread/INFO]: [NabotoGaming: Set game difficulty to Normal]
+[19:17:53] [Client thread/INFO]: [CHAT] Set game difficulty to Normal
+[19:18:29] [Server thread/INFO]: NabotoGaming has made the advancement [Meet the Meta]
+[19:18:29] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Meet the Meta]
+[19:18:29] [Client thread/INFO]: Loaded 177 advancements
+[19:18:30] [Server thread/INFO]: NabotoGaming has made the advancement [So Meta]
+[19:18:30] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [So Meta]
+[19:18:30] [Server thread/INFO]: NabotoGaming has made the advancement [Pet Inventory]
+[19:18:30] [Server thread/INFO]: NabotoGaming has made the advancement [First Steps]
+[19:18:30] [Client thread/INFO]: Loaded 177 advancements
+[19:18:30] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Pet Inventory]
+[19:18:30] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [First Steps]
+[19:18:30] [Client thread/INFO]: Loaded 183 advancements
+[19:18:40] [Server thread/INFO]: NabotoGaming has made the advancement [Happy Holidays!]
+[19:18:40] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Happy Holidays!]
+[19:18:40] [Client thread/INFO]: Loaded 188 advancements
+[19:18:51] [Server thread/INFO]: NabotoGaming has made the advancement [Friendly Fire]
+[19:18:52] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Friendly Fire]
+[19:18:52] [Client thread/INFO]: Loaded 190 advancements
+[19:23:14] [Server thread/INFO]: [NabotoGaming: Set game difficulty to Peaceful]
+[19:23:14] [Client thread/INFO]: [CHAT] Set game difficulty to Peaceful
+[19:25:08] [Server thread/INFO]: Saving and pausing game...
+[19:25:08] [Server thread/INFO]: Saving chunks for level 'Superflat'/overworld
+[19:25:08] [Server thread/INFO]: Saving chunks for level 'Superflat'/ExtraUtils2_Quarry_Dim
+[19:25:08] [Server thread/INFO]: Saving chunks for level 'Superflat'/Storage Cell
+[19:25:08] [Server thread/INFO]: Saving chunks for level 'Superflat'/Deep Dark
+[19:34:17] [Server thread/INFO]: NabotoGaming has made the advancement [Acquire Hardware]
+[19:34:17] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Acquire Hardware]
+[19:34:17] [Client thread/INFO]: Loaded 217 advancements
+[19:34:20] [Client thread/INFO]: Handling crafting slots.
+[19:34:20] [Client thread/INFO]: Merging stacks.
+[19:34:20] [Client thread/INFO]: Applying rules.
+[19:34:20] [Client thread/INFO]: Locking stacks.
+[19:34:20] [Client thread/INFO]: Default sorting.
+[19:34:20] [Client thread/INFO]: Sorting done in 9526400ns
+[19:34:21] [Client thread/INFO]: Handling crafting slots.
+[19:34:21] [Client thread/INFO]: Merging stacks.
+[19:34:21] [Client thread/INFO]: Applying rules.
+[19:34:21] [Client thread/INFO]: Locking stacks.
+[19:34:21] [Client thread/INFO]: Default sorting.
+[19:34:21] [Client thread/INFO]: Sorting done in 1945200ns
+[19:34:21] [Client thread/INFO]: Handling crafting slots.
+[19:34:21] [Client thread/INFO]: Merging stacks.
+[19:34:21] [Client thread/INFO]: Applying rules.
+[19:34:21] [Client thread/INFO]: Locking stacks.
+[19:34:21] [Client thread/INFO]: Default sorting.
+[19:34:21] [Client thread/INFO]: Sorting done in 1625400ns
+[19:34:22] [Client thread/INFO]: Handling crafting slots.
+[19:34:22] [Client thread/INFO]: Merging stacks.
+[19:34:22] [Client thread/INFO]: Applying rules.
+[19:34:22] [Client thread/INFO]: Locking stacks.
+[19:34:22] [Client thread/INFO]: Default sorting.
+[19:34:22] [Client thread/INFO]: Sorting done in 1556300ns
+[19:34:22] [Client thread/INFO]: Handling crafting slots.
+[19:34:22] [Client thread/INFO]: Merging stacks.
+[19:34:22] [Client thread/INFO]: Applying rules.
+[19:34:22] [Client thread/INFO]: Locking stacks.
+[19:34:22] [Client thread/INFO]: Default sorting.
+[19:34:22] [Client thread/INFO]: Sorting done in 1506800ns
+[19:34:22] [Client thread/INFO]: Handling crafting slots.
+[19:34:22] [Client thread/INFO]: Merging stacks.
+[19:34:22] [Client thread/INFO]: Applying rules.
+[19:34:22] [Client thread/INFO]: Locking stacks.
+[19:34:22] [Client thread/INFO]: Default sorting.
+[19:34:22] [Client thread/INFO]: Sorting done in 1474500ns
+[19:58:24] [Server thread/INFO]: Saving and pausing game...
+[19:58:24] [Server thread/INFO]: Saving chunks for level 'Superflat'/overworld
+[19:58:25] [Server thread/INFO]: Saving chunks for level 'Superflat'/ExtraUtils2_Quarry_Dim
+[19:58:25] [Server thread/INFO]: Saving chunks for level 'Superflat'/Storage Cell
+[19:58:25] [Server thread/INFO]: Saving chunks for level 'Superflat'/Deep Dark
+[19:58:27] [Server thread/INFO]: NabotoGaming has made the advancement [Squealer]
+[19:58:27] [Client thread/INFO]: [CHAT] NabotoGaming has made the advancement [Squealer]
+[19:58:27] [Client thread/INFO]: Loaded 223 advancements
+[20:01:24] [Client thread/INFO]: [CHAT] §7/ftblib_simulate_button§r, /ftbquests
+[20:01:25] [Client thread/INFO]: [CHAT] §7/ftblib_simulate_button§r, /ftbquests
+[20:01:26] [Client thread/INFO]: [CHAT] Available SubCommands: generate_chapter_with_all_items_in_game, export_rewards_to_chest, import_rewards_from_chest, change_progress and editing_mode
+[20:02:39] [Server thread/INFO]: Saving and pausing game...
+[20:02:39] [Server thread/INFO]: Saving chunks for level 'Superflat'/overworld
+[20:02:39] [Server thread/INFO]: Saving chunks for level 'Superflat'/ExtraUtils2_Quarry_Dim
+[20:02:39] [Server thread/INFO]: Saving chunks for level 'Superflat'/Storage Cell
+[20:02:39] [Server thread/INFO]: Saving chunks for level 'Superflat'/Deep Dark
+[20:02:40] [Client thread/INFO]: Mapping halted in C:\Users\Naboto\curseforge\minecraft\Instances\How To Build A PC\journeymap\data\sp\Superflat\DIM0
+[20:02:40] [Server thread/INFO]: [lain.mods.cos.InventoryManager:onServerStopping:234]: Server is stopping... force saving all loaded CosmeticArmor data.
+[20:02:40] [Server thread/INFO]: [lain.mods.cos.InventoryManager:onServerStopping:237]: a5ae9f21-af5d-49ea-b6c8-09f039af6301
+[20:02:40] [Server thread/INFO]: Stopping threads
+[20:02:40] [Server thread/INFO]: Stopping server
+[20:02:40] [Server thread/INFO]: Saving players
+[20:02:40] [Server thread/INFO]: NabotoGaming lost connection: Disconnected
+[20:02:40] [Server thread/INFO]: NabotoGaming left the game
+[20:02:40] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:02:40] [Server thread/INFO]: Saving worlds
+[20:02:40] [Server thread/INFO]: Saving chunks for level 'Superflat'/overworld
+[20:02:40] [Server thread/INFO]: Saving chunks for level 'Superflat'/ExtraUtils2_Quarry_Dim
+[20:02:40] [Server thread/INFO]: Saving chunks for level 'Superflat'/Storage Cell
+[20:02:40] [Server thread/INFO]: Saving chunks for level 'Superflat'/Deep Dark
+[20:02:40] [Server thread/INFO]: Removing aura cache for world 0
+[20:02:40] [Server thread/INFO]: Removing aura cache for world -9999
+[20:02:40] [Server thread/INFO]: Removing aura cache for world 7
+[20:02:40] [Server thread/INFO]: Removing aura cache for world -11325
+[20:02:40] [Server thread/INFO]: Unloading dimension 0
+[20:02:40] [Server thread/INFO]: Unloading dimension -9999
+[20:02:40] [Server thread/INFO]: Unloading dimension 7
+[20:02:40] [Server thread/INFO]: Unloading dimension -11325
+[20:02:41] [Thread-60/WARN]: No auras found!
+[20:02:41] [Thread-53/WARN]: No auras found!
+[20:02:41] [Thread-77/WARN]: No auras found!
+[20:02:41] [Thread-68/WARN]: No auras found!
+[20:02:41] [Thread-53/INFO]: Stopping aura thread for dim 0
+[20:02:41] [Thread-60/INFO]: Stopping aura thread for dim -9999
+[20:02:41] [Thread-77/INFO]: Stopping aura thread for dim -11325
+[20:02:41] [Thread-68/INFO]: Stopping aura thread for dim 7
+[20:02:41] [Server thread/INFO]: JEI search tree manager injection complete!
+[20:02:42] [Server thread/INFO]: Applying holder lookups
+[20:02:42] [Server thread/INFO]: Holder lookups applied
+[20:02:42] [Server thread/INFO]: Unloaded WorldData!
+[20:02:42] [Server thread/INFO]: Server Closing...
+[20:02:42] [Server thread/INFO]: Cleared Server Info Handler
+[20:02:42] [Server thread/INFO]: Cleared Network Handler
+[20:02:42] [Server thread/INFO]: Cleared Data Factory
+[20:02:42] [Server thread/INFO]: Cleared Wireless Data Manager
+[20:02:42] [Server thread/INFO]: Cleared Wireless Redstone Manager
+[20:02:42] [Server thread/INFO]: Cleared Cable Connection Handler
+[20:02:42] [Server thread/INFO]: Cleared Redstone Connection Handler
+[20:02:42] [Server thread/INFO]: Cleared Server Display Handler
+[20:02:42] [Server thread/INFO]: Cleared Chunk Viewer Handler
+[20:02:42] [Server thread/INFO]: Cleared Client Info Handler
+[20:03:40] [Client thread/INFO]: Unloaded world <net.minecraft.client.multiplayer.WorldClient@5d727afa 0 MultiplayerChunkCache: 625, 625> is still hanging around after 60 seconds.

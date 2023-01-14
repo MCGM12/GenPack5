@@ -1,0 +1,16 @@
+{
+	title: "Speedy Furnace",
+	x: 17.0d,
+	y: 7.0d,
+	description: "7 Second Smelt",
+	text: [
+		"Pretty nice furnace upgrade, can toast a waffle, 10/10"
+	],
+	tasks: [{
+		uid: "794bc426",
+		type: "item",
+		items: [{
+			item: "ironfurnaces:iron_furnace_idle"
+		}]
+	}]
+}

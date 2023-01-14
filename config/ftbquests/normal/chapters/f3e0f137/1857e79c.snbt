@@ -3,7 +3,7 @@
 	y: -2.0d,
 	description: "Like seriously change them",
 	text: [
-		"There are a lot of conflicts in the keybindings, you should go change them(I'l give you a cookie for it)"
+		"There are a lot of conflicts in the keybindings, you should go change them(I'll give you a cookie for it)"
 	],
 	dependencies: [
 		"1e5985ba"

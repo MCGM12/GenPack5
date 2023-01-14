@@ -1,0 +1,16 @@
+{
+	title: "Speediest Furnace",
+	x: 17.0d,
+	y: 9.0d,
+	description: "3 second smelt",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "b50fb973",
+		type: "item",
+		items: [{
+			item: "ironfurnaces:diamond_furnace_idle"
+		}]
+	}]
+}
