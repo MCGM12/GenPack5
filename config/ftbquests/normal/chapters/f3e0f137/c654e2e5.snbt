@@ -1,0 +1,18 @@
+{
+	title: "Looking For Tech Filled Meteorites",
+	x: 27.0d,
+	y: 3.5d,
+	description: "It's dumbed down a little so your head doesnt hurt",
+	text: [
+		"Applied energistics is the storage mod that outdoes all other storage mods.",
+		"Is it complex? Can be yeah.",
+		"Can it do literally anything? Basically yeah."
+	],
+	tasks: [{
+		uid: "f40a7b08",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:sky_compass"
+		}]
+	}]
+}

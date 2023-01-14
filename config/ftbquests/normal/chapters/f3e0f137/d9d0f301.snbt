@@ -1,0 +1,19 @@
+{
+	title: "Break It Apart, Then Put It Back Together",
+	x: 28.0d,
+	y: -2.5d,
+	description: "Make that good good stuff",
+	text: [
+		"The Chemical Combiner puts elements together, usually used for making more advanced combinations, or solidifying them into items."
+	],
+	dependencies: [
+		"86bc658e"
+	],
+	tasks: [{
+		uid: "92f5599c",
+		type: "item",
+		items: [{
+			item: "alchemistry:chemical_combiner"
+		}]
+	}]
+}

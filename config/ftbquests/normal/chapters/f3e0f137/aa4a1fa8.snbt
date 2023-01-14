@@ -1,0 +1,27 @@
+{
+	title: "Self Fueling And Wireless Battery",
+	x: 25.5d,
+	y: -3.5d,
+	description: "You can feed it into itself!",
+	text: [
+		"A pretty neat trick you can do is pump the energy back into the portal so you dont have to power it externally, as these portals take energy to stay up,",
+		"even if idle."
+	],
+	dependencies: [
+		"d93d4391"
+	],
+	tasks: [{
+		uid: "92116024",
+		type: "item",
+		items: [{
+			item: "portality:module_energy"
+		}]
+	},
+	{
+		uid: "9a46ca25",
+		type: "item",
+		items: [{
+			item: "portality:module_energy 1 1"
+		}]
+	}]
+}

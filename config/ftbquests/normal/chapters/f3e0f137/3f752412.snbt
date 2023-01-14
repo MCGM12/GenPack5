@@ -1,10 +1,13 @@
 {
 	title: "Harder Than Obsidian",
-	x: 8.0d,
-	y: -5.5d,
+	x: 9.0d,
+	y: -4.0d,
 	description: "And more interesting too",
 	text: [
-		""
+		"Aurorium and Abyssum ore are both found in the end, while Abyssum is on the bottom of the islands.",
+		"Karmesine ore is found in andesite veins, so not too difficult to find.",
+		"Osram ore is found floating in lava oceans in the Nether, so it will be a bit difficult to obtain without burning it.",
+		"All of these are mined with a Cobalt level pickaxe."
 	],
 	dependencies: [
 		"be3a0f13"

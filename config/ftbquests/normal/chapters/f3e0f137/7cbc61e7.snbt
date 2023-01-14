@@ -1,8 +1,8 @@
 {
-	title: "Gregtech is pain",
+	title: "The Ring of Greg",
 	x: 20.0d,
 	y: 3.5d,
-	description: "it really is, you have been warned",
+	description: "Dont use this mod, you'll hate yourself for it.",
 	text: [
 		"All of the ores for gregtech have been moved to the mining dimension.",
 		"Feel free to ignore it, theirs no harm in ignoring this painful mod.",
@@ -24,5 +24,29 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "73dc5f88",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				Charge: 1600000L
+			},
+			Damage: 467s
+		}
+	},
+	{
+		uid: "8b8ce7fa",
+		type: "item",
+		item: {
+			id: "gregtech:meta_item_1",
+			tag: {
+				terminal: {
+					_creative: 1b
+				}
+			},
+			Damage: 465s
+		}
 	}]
 }

@@ -1,0 +1,35 @@
+{
+	title: "Steel Production",
+	x: 4.5d,
+	y: -1.5d,
+	description: "Optional, but Steel Production is very mandatory for Gregtech Progression.",
+	text: [
+		"Steel is the first main material you'll need for Gregtech, primarily in the first tier, Low Voltage (LV). For that reason, its essential that you have Steel automated."
+	],
+	tasks: [{
+		uid: "97d32383",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:alloy_furnace_idle"
+		}]
+	},
+	{
+		uid: "79c91386",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:stone_decoration 1 1"
+		}],
+		count: 27L
+	}],
+	rewards: [{
+		uid: "0218fb98",
+		type: "item",
+		item: "gregtech:meta_ingot 1 324",
+		count: 64
+	},
+	{
+		uid: "b981dc11",
+		type: "item",
+		item: "actuallyadditions:block_coal_generator"
+	}]
+}

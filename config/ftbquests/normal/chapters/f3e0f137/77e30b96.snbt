@@ -1,0 +1,37 @@
+{
+	title: "Not To Be Confused With Fusion",
+	icon: "alchemistry:fission_controller",
+	x: 28.0d,
+	y: -5.5d,
+	description: "Turn the heavy stuff into lighter stuff",
+	text: [
+		"Breaks apart elements into lighter versions. Can be exceedingly useful.",
+		"Its a big 5x5x5 cube with a controller on the outside and the rods in the middle. Consult the book if you want a visualization."
+	],
+	dependencies: [
+		"749e4ccb"
+	],
+	tasks: [{
+		uid: "2dcc7f5c",
+		type: "item",
+		items: [{
+			item: "alchemistry:fission_controller"
+		}]
+	},
+	{
+		uid: "55034b64",
+		type: "item",
+		items: [{
+			item: "alchemistry:fission_casing"
+		}],
+		count: 98L
+	},
+	{
+		uid: "afec43c0",
+		type: "item",
+		items: [{
+			item: "alchemistry:fission_core"
+		}],
+		count: 3L
+	}]
+}

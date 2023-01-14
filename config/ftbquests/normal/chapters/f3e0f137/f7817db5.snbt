@@ -1,0 +1,26 @@
+{
+	title: "Item transport",
+	x: 24.5d,
+	y: -3.5d,
+	description: "Item in, item out",
+	text: [
+		"Pretty self explanatory, put items in the block, then pipe them out of the other side of the portal."
+	],
+	dependencies: [
+		"d93d4391"
+	],
+	tasks: [{
+		uid: "4900d205",
+		type: "item",
+		items: [{
+			item: "portality:module_items"
+		}]
+	},
+	{
+		uid: "bf62de51",
+		type: "item",
+		items: [{
+			item: "portality:module_items 1 1"
+		}]
+	}]
+}

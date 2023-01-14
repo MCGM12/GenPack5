@@ -1,6 +1,14 @@
 {
+	title: "Mythological Ores",
 	x: 8.0d,
-	y: -6.5d,
+	y: -5.5d,
+	description: "Now its serious",
+	text: [
+		"Valyrium and Uru ore is some serious stuff, with both being quite rare. ",
+		"Uru is found in floating Obsidiorite cubes, which are located in the End skies.",
+		"Valyrium ore is very rare and found in all levels of the nether.",
+		"Both of these need Valyrium level pickaxes, best get alloying again."
+	],
 	dependencies: [
 		"fc15be91"
 	],

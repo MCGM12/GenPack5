@@ -1,0 +1,13 @@
+{
+	x: 29.0d,
+	y: 3.5d,
+	tasks: [{
+		uid: "82cd2161",
+		type: "item",
+		items: [{
+			item: "minecraft:fishing_rod"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

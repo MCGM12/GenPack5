@@ -1,0 +1,19 @@
+{
+	title: "Liquify No Jutsu",
+	x: 29.0d,
+	y: -3.5d,
+	description: "Delectable liquid oxygen, just what I needed today",
+	text: [
+		"The Liquifier can turn all those compounds into liquids, its pretty handy for making some things in tech mods easier."
+	],
+	dependencies: [
+		"86bc658e"
+	],
+	tasks: [{
+		uid: "87ab4c3b",
+		type: "item",
+		items: [{
+			item: "alchemistry:liquifier"
+		}]
+	}]
+}

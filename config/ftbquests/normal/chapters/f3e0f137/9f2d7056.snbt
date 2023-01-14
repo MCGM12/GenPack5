@@ -1,6 +1,13 @@
 {
+	title: "Wakanda Forever Kachan",
 	x: 7.0d,
-	y: -7.0d,
+	y: -5.0d,
+	description: "Vibranium go vrrrr",
+	text: [
+		"Finally, top of the line stuff.",
+		"Vibranium is exceedingly rare, but slightly less so in Deserts and Extreme Hills.",
+		"you will need a Vibranium level pickaxe to mine it, which means more alloying is needed."
+	],
 	dependencies: [
 		"ae7a872c"
 	],

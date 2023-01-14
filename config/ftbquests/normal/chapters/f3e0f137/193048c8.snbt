@@ -1,0 +1,26 @@
+{
+	title: "Fluid Transport",
+	x: 23.5d,
+	y: -2.5d,
+	description: "Move fluids from point A to B, in style",
+	text: [
+		"Import fluids into the module to store it in the portal, then export it out. wireless fluid transport!"
+	],
+	dependencies: [
+		"d93d4391"
+	],
+	tasks: [{
+		uid: "000439ba",
+		type: "item",
+		items: [{
+			item: "portality:module_fluids"
+		}]
+	},
+	{
+		uid: "6528fa4b",
+		type: "item",
+		items: [{
+			item: "portality:module_fluids 1 1"
+		}]
+	}]
+}

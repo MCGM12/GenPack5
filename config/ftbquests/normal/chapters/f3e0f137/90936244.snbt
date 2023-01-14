@@ -1,0 +1,37 @@
+{
+	title: "Not To Be Confused With Fission",
+	x: 31.0d,
+	y: -5.5d,
+	description: "Makes lighter stuff heavier",
+	text: [
+		"Mashes elements together into heavier elements, which is without a doubt incredibly useful.",
+		"It takes the atomic number and uses that to determine what the output is(like hydrogen(1) + hydrogen(1) = helium(2))",
+		"It's a big 5x5x5 cube with a controller on the outside and the rods in the middle. Consult the book if you want a visualization."
+	],
+	dependencies: [
+		"749e4ccb"
+	],
+	tasks: [{
+		uid: "54c39b92",
+		type: "item",
+		items: [{
+			item: "alchemistry:fusion_controller"
+		}]
+	},
+	{
+		uid: "44c4ffdb",
+		type: "item",
+		items: [{
+			item: "alchemistry:fusion_casing"
+		}],
+		count: 98L
+	},
+	{
+		uid: "206ba648",
+		type: "item",
+		items: [{
+			item: "alchemistry:fusion_core"
+		}],
+		count: 3L
+	}]
+}

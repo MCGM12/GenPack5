@@ -1,0 +1,23 @@
+{
+	title: "Totally Normal Bread",
+	disable_toast: true,
+	x: 28.0d,
+	y: -7.0d,
+	shape: "hexagon",
+	description: "Might have a hint of the good good in it",
+	text: [
+		"Bread + Crystal Meth = Bread(with a hint of something else)"
+	],
+	dependencies: [
+		"749e4ccb"
+	],
+	hide: true,
+	optional: true,
+	tasks: [{
+		uid: "f823a2d2",
+		type: "item",
+		items: [{
+			item: "contenttweaker:totally_bread"
+		}]
+	}]
+}

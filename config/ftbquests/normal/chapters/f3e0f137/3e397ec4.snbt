@@ -1,0 +1,19 @@
+{
+	title: "Your Mom Is An Evaporator",
+	x: 31.0d,
+	y: -2.5d,
+	description: "Cuz shes dry, and has no substance /e dab",
+	text: [
+		"Can evaporate water and milk to more useful chemical stuff."
+	],
+	dependencies: [
+		"86bc658e"
+	],
+	tasks: [{
+		uid: "a92a3305",
+		type: "item",
+		items: [{
+			item: "alchemistry:evaporator"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Dimensional Travel",
+	x: 26.5d,
+	y: -2.5d,
+	description: "Like the Tardis, but way less cool",
+	text: [
+		"Slap this module anywhere in your portal, and then you can use these portals across dimensions. It's as shrimple as that."
+	],
+	dependencies: [
+		"d93d4391"
+	],
+	tasks: [{
+		uid: "36f193bd",
+		type: "item",
+		items: [{
+			item: "portality:module_interdimensional"
+		}]
+	}]
+}

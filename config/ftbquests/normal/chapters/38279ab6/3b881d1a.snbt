@@ -1,0 +1,58 @@
+{
+	title: "Welcome to Hell",
+	x: -1.5d,
+	y: 0.0d,
+	shape: "gear",
+	description: "You really hate yourself dont you?",
+	text: [
+		"Primarily added so I (Matthew) can do Gregtech things in this modpack and confuse all of you, Gregtech Community Edition Unofficial is a MASSIVE tech mod.",
+		"It adds a plethora of machines that can do a variety of tasks, primarily automation based, and requires a LOT of crafting. Expect to spend the first 5 hours of Gregtech just sitting at a crafting table.",
+		"If you truly wish to brave Gregtech, this quest chain will help guide you a bit, but I'm not very good at making guides and reccomend you look up some on the internet.",
+		"These quests are primarily here to make progression a little easier and to help visualize the tech trees of Gregtech."
+	],
+	dependencies: [
+		"7cbc61e7"
+	],
+	size: 4.0d,
+	tasks: [{
+		uid: "be685596",
+		type: "dimension",
+		dim: -6
+	}],
+	rewards: [{
+		uid: "34935484",
+		type: "item",
+		item: {
+			id: "gregtech:mining_hammer",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Behaviours: {
+					AoELayer: 0,
+					MaxAoELayer: 0,
+					TorchPlacing: 1b,
+					AoERow: 1,
+					AoEColumn: 1,
+					MaxAoERow: 1,
+					MaxAoEColumn: 1
+				},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 768,
+					ToolSpeed: 6.4f,
+					AttackDamage: 8.5f,
+					Durability: 0,
+					Material: "diamond",
+					HarvestLevel: 3,
+					AttackSpeed: -3.1000001f
+				}
+			}
+		},
+		count: 4
+	},
+	{
+		uid: "4cbef313",
+		type: "item",
+		item: "harvestcraft:netherwingsitem",
+		count: 16
+	}]
+}

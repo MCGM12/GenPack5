@@ -1,0 +1,22 @@
+{
+	title: "Very Useful Medical Compound",
+	x: 29.5d,
+	y: -5.0d,
+	description: "It just so happens it makes me feel good",
+	text: [
+		"It's meth."
+	],
+	dependencies: [
+		"a02e7ac6",
+		"d9d0f301",
+		"3e397ec4",
+		"a1cad6ac"
+	],
+	tasks: [{
+		uid: "561b31be",
+		type: "item",
+		items: [{
+			item: "alchemistry:compound 1 1000"
+		}]
+	}]
+}

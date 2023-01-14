@@ -1,0 +1,20 @@
+{
+	title: "That Good Good Stuff",
+	x: 29.5d,
+	y: -6.5d,
+	description: "I don't have dependency issues, you do!",
+	text: [
+		"You can use it to feel on top of the world! just be careful though, there might be some side effects :)",
+		"Can be laced into many food items. Go ham!"
+	],
+	dependencies: [
+		"d388074f"
+	],
+	tasks: [{
+		uid: "7dda4ddd",
+		type: "item",
+		items: [{
+			item: "contenttweaker:crystalized_methamphetamine"
+		}]
+	}]
+}

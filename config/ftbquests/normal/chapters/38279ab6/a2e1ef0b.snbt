@@ -1,0 +1,176 @@
+{
+	title: "Basic Beginnings",
+	x: 3.0d,
+	y: 0.0d,
+	description: "The right tools to get you started.",
+	text: [
+		"Gregtech requires a lot of crafting, and most of those, if not done by machines, require specific tools. Hammers, screwdrivers, files, saws, etc.",
+		"These tools can be crafted with a variety of materials, but JEI will only show Iron tiers when you look it up. ",
+		"Each tier has materials that can produce a better tool, but after a certain point, you'll have most of the crafting processes automated by machines.",
+		"For now, however, you'll need these.",
+		"Rewarding some Wrought Iron, which is obtained by re-smelting some Iron in a furnace. Creates more durable tools then base Iron."
+	],
+	tasks: [{
+		uid: "be13a1c5",
+		type: "item",
+		items: [{
+			id: "gregtech:hammer",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Behaviours: {},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 256,
+					ToolSpeed: 6.0f,
+					AttackDamage: 3.0f,
+					LastCraftingUse: -1307218315,
+					Durability: 0,
+					Material: "iron",
+					HarvestLevel: 2,
+					AttackSpeed: -2.8f
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "805f8a80",
+		type: "item",
+		items: [{
+			id: "gregtech:file",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Behaviours: {},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 256,
+					AttackDamage: 0.0f,
+					LastCraftingUse: -1307218315,
+					Durability: 0,
+					Material: "iron",
+					AttackSpeed: -2.4f
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "9a2cbf77",
+		type: "item",
+		items: [{
+			id: "gregtech:saw",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Behaviours: {
+					HarvestIce: 1b
+				},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 256,
+					AttackDamage: 1.0f,
+					Durability: 0,
+					Material: "iron",
+					AttackSpeed: -2.6f
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dfa7482b",
+		type: "item",
+		items: [{
+			id: "gregtech:wrench",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Behaviours: {},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 256,
+					ToolSpeed: 6.0f,
+					AttackDamage: 3.0f,
+					Durability: 0,
+					Material: "iron",
+					HarvestLevel: 2,
+					AttackSpeed: -2.8f
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "786453e7",
+		type: "item",
+		items: [{
+			id: "gregtech:screwdriver",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Behaviours: {},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 256,
+					AttackDamage: 1.0f,
+					Durability: 0,
+					Material: "iron",
+					AttackSpeed: 3.0f
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cb93a7c7",
+		type: "item",
+		items: [{
+			id: "gregtech:wire_cutter",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Behaviours: {},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 256,
+					ToolSpeed: 6.0f,
+					AttackDamage: 1.0f,
+					Durability: 0,
+					Material: "iron",
+					HarvestLevel: 2,
+					AttackSpeed: -2.4f
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4bb370f6",
+		type: "item",
+		items: [{
+			id: "gregtech:mortar",
+			tag: {
+				DisallowContainerItem: 0b,
+				GT.Behaviours: {},
+				HideFlags: 2,
+				GT.Tool: {
+					MaxDurability: 256,
+					AttackDamage: 0.0f,
+					Durability: 0,
+					Material: "iron",
+					AttackSpeed: -2.4f
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a9873e90",
+		type: "item",
+		item: "gregtech:meta_ingot 1 335",
+		count: 64
+	}]
+}

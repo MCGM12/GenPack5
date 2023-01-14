@@ -1,0 +1,17 @@
+{
+	title: "A Simple Tech Mod",
+	x: 12.5d,
+	y: 3.5d,
+	description: "One block machines are boring but space efficient",
+	text: [
+		"Thermal Expansion and all of its addons are pretty simple mods for doing tech stuff."
+	],
+	tasks: [{
+		uid: "9ee90b53",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:wrench"
+		}],
+		ignore_nbt: 1b
+	}]
+}

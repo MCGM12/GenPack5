@@ -1,0 +1,32 @@
+{
+	title: "Ready To Do Chemistry?",
+	x: 29.5d,
+	y: -2.0d,
+	description: "Or make meth, either works",
+	text: [
+		"Chemical Dissolver takes chemical compounds and breaks them apart.",
+		"It's a good idea to do this a couple of times to make sure you have a backlog of basic elements."
+	],
+	tasks: [{
+		uid: "c4326ef3",
+		type: "item",
+		items: [{
+			item: "alchemistry:chemical_dissolver"
+		}]
+	}],
+	rewards: [{
+		uid: "97633a69",
+		type: "item",
+		item: {
+			id: "patchouli:guide_book",
+			tag: {
+				"patchouli:book": "alchemistry:alchemistry_book"
+			}
+		}
+	},
+	{
+		uid: "f1d0820c",
+		type: "item",
+		item: "alchemistry:periodic_diagram"
+	}]
+}

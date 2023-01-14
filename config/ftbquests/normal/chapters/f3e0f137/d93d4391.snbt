@@ -1,0 +1,31 @@
+{
+	title: "Big Portal",
+	x: 25.0d,
+	y: -2.0d,
+	description: "For all your portal needs",
+	text: [
+		"Portality is a mod that lets you make portals(wow) that can transport entities, power, items, and liquids, and even across dimensions!",
+		"its a mutliblock structure that has a minimum size of 5x5x3, but it can be longer to let it transport farther distances."
+	],
+	tasks: [{
+		uid: "98799277",
+		type: "item",
+		items: [{
+			item: "portality:controller"
+		}]
+	},
+	{
+		uid: "1cef32a5",
+		type: "item",
+		items: [{
+			item: "portality:frame"
+		}],
+		count: 48L
+	}],
+	rewards: [{
+		uid: "9ad37dc7",
+		type: "item",
+		item: "portality:frame",
+		count: 48
+	}]
+}

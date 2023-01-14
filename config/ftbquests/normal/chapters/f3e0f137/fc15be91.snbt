@@ -1,6 +1,14 @@
 {
-	x: 7.0d,
-	y: -6.0d,
+	title: "Diamond Has Nothing On These",
+	x: 9.0d,
+	y: -5.0d,
+	description: "Heavy duty ores",
+	text: [
+		"Prometheum ore is found in the nether near the bottom, and is apparently radioactive. Sounds like the perfect snack.",
+		"Duranite ore is located inside meteorites you may find throughout the world, gl finding them.",
+		"Palladium ore is yet another radioactive ore, and its found in the End.",
+		"All of these ores need a Duranite level pickaxe, you will need to alloy for that."
+	],
 	dependencies: [
 		"3f752412"
 	],
