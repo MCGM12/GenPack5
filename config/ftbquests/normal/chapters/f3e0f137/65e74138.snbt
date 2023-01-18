@@ -1,0 +1,19 @@
+{
+	title: "It's An Iron Ingot",
+	x: 12.0d,
+	y: 0.0d,
+	description: "You should go mining NOW",
+	text: [
+		"Iron is useful for literally everything."
+	],
+	dependencies: [
+		"5fd4c5f5"
+	],
+	tasks: [{
+		uid: "1dd4b250",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}]
+	}]
+}

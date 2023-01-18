@@ -1,11 +1,15 @@
 {
 	title: "A Simple Tech Mod",
-	x: 12.5d,
-	y: 3.5d,
+	x: -6.0d,
+	y: 2.0d,
 	description: "One block machines are boring but space efficient",
 	text: [
 		"Thermal Expansion and all of its addons are pretty simple mods for doing tech stuff."
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "9ee90b53",
 		type: "item",

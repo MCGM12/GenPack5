@@ -1,11 +1,15 @@
 {
 	title: "Just a little bit of blood loss doesn't hurt",
-	x: 18.5d,
-	y: -2.0d,
+	x: -7.5d,
+	y: -3.5d,
 	description: "Tis only a flesh wound",
 	text: [
 		"stab yourself. No balls pussy"
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "d2cf9339",
 		type: "item",

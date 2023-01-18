@@ -1,0 +1,21 @@
+{
+	title: "Tier 2 Cube",
+	x: 4.5d,
+	y: 2.0d,
+	description: "Storing more",
+	text: [
+		"Teir 2 dank/null, holds more, more expensive to make."
+	],
+	dependencies: [
+		"6b810640"
+	],
+	tasks: [{
+		uid: "be2b97c2",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_1"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

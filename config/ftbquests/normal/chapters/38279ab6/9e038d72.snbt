@@ -1,0 +1,21 @@
+{
+	x: 1.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "ce012d6f",
+		type: "checkmark",
+		title: "Rubber Hunt"
+	}],
+	rewards: [{
+		uid: "c92c5053",
+		type: "item",
+		item: "gregtech:rubber_sapling",
+		count: 16
+	},
+	{
+		uid: "f488e12d",
+		type: "item",
+		item: "minecraft:dye 1 15",
+		count: 64
+	}]
+}

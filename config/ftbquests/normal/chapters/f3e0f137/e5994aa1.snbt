@@ -1,11 +1,15 @@
 {
 	title: "Armor is pain",
-	x: 13.5d,
+	x: -7.5d,
 	y: -2.0d,
 	description: "I'm sorry it has to be this way",
 	text: [
 		"you want cool armor? Earn it lmao"
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "9611ca05",
 		type: "item",

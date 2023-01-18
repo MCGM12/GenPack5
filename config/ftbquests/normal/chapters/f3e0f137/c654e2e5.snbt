@@ -1,6 +1,6 @@
 {
 	title: "Looking For Tech Filled Meteorites",
-	x: 27.0d,
+	x: -9.0d,
 	y: 3.5d,
 	description: "It's dumbed down a little so your head doesnt hurt",
 	text: [
@@ -8,6 +8,10 @@
 		"Is it complex? Can be yeah.",
 		"Can it do literally anything? Basically yeah."
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "f40a7b08",
 		type: "item",

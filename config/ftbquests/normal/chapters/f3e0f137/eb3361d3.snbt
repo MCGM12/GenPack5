@@ -1,0 +1,22 @@
+{
+	title: "Tier 6 Cube",
+	x: 4.5d,
+	y: 4.0d,
+	description: "Detroit in a box",
+	text: [
+		"Essentially stores an infinite number of items in a single slot.",
+		"Now you can finally store everything you own in a single cube."
+	],
+	dependencies: [
+		"2eb54978"
+	],
+	tasks: [{
+		uid: "92af5cf6",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_5"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

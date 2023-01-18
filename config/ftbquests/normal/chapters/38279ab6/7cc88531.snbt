@@ -4,7 +4,10 @@
 	y: -1.5d,
 	description: "Optional, but Steel Production is very mandatory for Gregtech Progression.",
 	text: [
-		"Steel is the first main material you'll need for Gregtech, primarily in the first tier, Low Voltage (LV). For that reason, its essential that you have Steel automated."
+		"Steel is the first main material you'll need for Gregtech, primarily in the first tier, Low Voltage (LV). For that reason, its essential that you have Steel automated.",
+		"The Alloy Smelter from Nuclearcraft is an RF consuming machine that will allow you to produce steel with some Iron ingots and some coal and its variants.",
+		"27 Blast Bricks in a 3x3 cube, tapped with an Engineers Hammer from Immersive Engineering allow you to make the Blast Furnace, the Immersive Engineering way to produce Steel.",
+		"Put coke in it along with some Iron, and you produce steel out of it."
 	],
 	tasks: [{
 		uid: "97d32383",

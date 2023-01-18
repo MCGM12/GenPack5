@@ -10,24 +10,23 @@
 		"For now, however, you'll need these.",
 		"Rewarding some Wrought Iron, which is obtained by re-smelting some Iron in a furnace. Creates more durable tools then base Iron."
 	],
+	dependencies: [
+		"3b881d1a"
+	],
 	tasks: [{
 		uid: "be13a1c5",
 		type: "item",
 		items: [{
-			id: "gregtech:hammer",
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolHammer",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Behaviours: {},
-				HideFlags: 2,
-				GT.Tool: {
-					MaxDurability: 256,
-					ToolSpeed: 6.0f,
-					AttackDamage: 3.0f,
-					LastCraftingUse: -1307218315,
-					Durability: 0,
-					Material: "iron",
-					HarvestLevel: 2,
-					AttackSpeed: -2.8f
+				display: {
+					Name: "Any craftingToolHammer"
 				}
 			}
 		}],
@@ -38,18 +37,16 @@
 		uid: "805f8a80",
 		type: "item",
 		items: [{
-			id: "gregtech:file",
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolFile",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Behaviours: {},
-				HideFlags: 2,
-				GT.Tool: {
-					MaxDurability: 256,
-					AttackDamage: 0.0f,
-					LastCraftingUse: -1307218315,
-					Durability: 0,
-					Material: "iron",
-					AttackSpeed: -2.4f
+				display: {
+					Name: "Any craftingToolFile"
 				}
 			}
 		}],
@@ -60,19 +57,16 @@
 		uid: "9a2cbf77",
 		type: "item",
 		items: [{
-			id: "gregtech:saw",
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolSaw",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Behaviours: {
-					HarvestIce: 1b
-				},
-				HideFlags: 2,
-				GT.Tool: {
-					MaxDurability: 256,
-					AttackDamage: 1.0f,
-					Durability: 0,
-					Material: "iron",
-					AttackSpeed: -2.6f
+				display: {
+					Name: "Any craftingToolSaw"
 				}
 			}
 		}],
@@ -83,19 +77,16 @@
 		uid: "dfa7482b",
 		type: "item",
 		items: [{
-			id: "gregtech:wrench",
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolWrench",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Behaviours: {},
-				HideFlags: 2,
-				GT.Tool: {
-					MaxDurability: 256,
-					ToolSpeed: 6.0f,
-					AttackDamage: 3.0f,
-					Durability: 0,
-					Material: "iron",
-					HarvestLevel: 2,
-					AttackSpeed: -2.8f
+				display: {
+					Name: "Any craftingToolWrench"
 				}
 			}
 		}],
@@ -106,17 +97,16 @@
 		uid: "786453e7",
 		type: "item",
 		items: [{
-			id: "gregtech:screwdriver",
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolScrewdriver",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Behaviours: {},
-				HideFlags: 2,
-				GT.Tool: {
-					MaxDurability: 256,
-					AttackDamage: 1.0f,
-					Durability: 0,
-					Material: "iron",
-					AttackSpeed: 3.0f
+				display: {
+					Name: "Any craftingToolScrewdriver"
 				}
 			}
 		}],
@@ -127,19 +117,16 @@
 		uid: "cb93a7c7",
 		type: "item",
 		items: [{
-			id: "gregtech:wire_cutter",
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolWireCutter",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Behaviours: {},
-				HideFlags: 2,
-				GT.Tool: {
-					MaxDurability: 256,
-					ToolSpeed: 6.0f,
-					AttackDamage: 1.0f,
-					Durability: 0,
-					Material: "iron",
-					HarvestLevel: 2,
-					AttackSpeed: -2.4f
+				display: {
+					Name: "Any craftingToolWireCutter"
 				}
 			}
 		}],
@@ -150,17 +137,16 @@
 		uid: "4bb370f6",
 		type: "item",
 		items: [{
-			id: "gregtech:mortar",
+			ForgeCaps: {
+				Parent: {
+					data: "craftingToolMortar",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
 			tag: {
-				DisallowContainerItem: 0b,
-				GT.Behaviours: {},
-				HideFlags: 2,
-				GT.Tool: {
-					MaxDurability: 256,
-					AttackDamage: 0.0f,
-					Durability: 0,
-					Material: "iron",
-					AttackSpeed: -2.4f
+				display: {
+					Name: "Any craftingToolMortar"
 				}
 			}
 		}],

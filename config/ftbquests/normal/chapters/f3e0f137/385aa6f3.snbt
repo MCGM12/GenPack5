@@ -1,7 +1,7 @@
 {
 	title: "Yellow Heart Canister",
-	x: 3.5d,
-	y: 9.5d,
+	x: 11.0d,
+	y: 2.5d,
 	description: "Second set of new hearts",
 	text: [
 		"These arent too bad to get with the plethora of boss mobs.",

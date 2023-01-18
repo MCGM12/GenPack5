@@ -1,7 +1,7 @@
 {
 	title: "Red Heart Canister",
-	x: 2.5d,
-	y: 8.0d,
+	x: 10.0d,
+	y: 1.5d,
 	description: "First set of new hearts",
 	text: [
 		"you likely have some of these already, they drop from regular mobs.",

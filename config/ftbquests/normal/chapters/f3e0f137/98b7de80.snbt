@@ -1,10 +1,14 @@
 {
 	title: "I REJECT MY HUMANITY JOJO",
-	x: 23.5d,
+	x: -10.5d,
 	y: 3.5d,
 	text: [
 		"So you've decided to become a Vampire huh? Better hope you have nice friends."
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "904ca5dc",
 		type: "item",

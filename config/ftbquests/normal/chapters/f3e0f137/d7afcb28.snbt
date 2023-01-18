@@ -1,0 +1,23 @@
+{
+	title: "You Know That One TIme A Guy Powered A Nuclear Reactor With Fire Alarms?",
+	icon: "nuclearcraft:uranium 1 4",
+	x: -4.5d,
+	y: -2.0d,
+	description: "I am inspired to be that guy",
+	text: [
+		"Yeah there was a guy who bought hundreds of fire alarms to power a nuclear reactor in his garage.",
+		"Pretty cool dude.",
+		"Anyways want to make a nuclear reactor?"
+	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
+	tasks: [{
+		uid: "3df97dbd",
+		type: "item",
+		items: [{
+			item: "nuclearcraft:part 1 4"
+		}]
+	}]
+}

@@ -1,10 +1,14 @@
 {
 	title: "It's like a ghost, but like.. It punches things",
-	x: 11.0d,
-	y: 3.5d,
+	x: -7.5d,
+	y: 2.0d,
 	text: [
 		"You know damn well what time it is, It's time for a BEATDOWN! HEYO!"
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "767e2efa",
 		type: "item",

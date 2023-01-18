@@ -1,0 +1,27 @@
+{
+	title: "Tier 1 Cube",
+	x: 5.5d,
+	y: 1.5d,
+	description: "The cube shall contain all",
+	text: [
+		"Dank/null has a bunch of \"backpack\" items that store items. Higher the teir, more types of items it can store, and higher quantities.",
+		"You will be using these for mass storage of items, not singular things like swords and whatnot."
+	],
+	dependencies: [
+		"6c67f458"
+	],
+	tasks: [{
+		uid: "92531ca3",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_0"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "857899e7",
+		type: "item",
+		item: "danknull:danknull_dock"
+	}]
+}

@@ -1,7 +1,7 @@
 {
 	title: "For all of those extra heart needs",
-	x: 5.0d,
-	y: 8.0d,
+	x: 12.0d,
+	y: 1.5d,
 	description: "Food doesnt give bonus health",
 	text: [
 		"There aren't many ways to boost your hp, this is an easy to understand way to boost your hp.",

@@ -1,0 +1,17 @@
+{
+	title: "Introduction To Mods",
+	x: -7.5d,
+	y: 0.0d,
+	description: "Don't know what to do? Choose a few to look into!",
+	text: [
+		"These will all open up a tab in the quest book for that specific mod.",
+		"It will give you a general guide through the mod, but some quests may be locked behind other mods because they are too strong on their own."
+	],
+	dependencies: [
+		"5fd4c5f5"
+	],
+	tasks: [{
+		uid: "c97cdf5e",
+		type: "checkmark"
+	}]
+}

@@ -1,10 +1,14 @@
 {
 	title: "German Engineering is the best in the WORLD!",
-	x: 25.5d,
-	y: 3.5d,
+	x: -10.5d,
+	y: -2.0d,
 	text: [
 		"Say goodbye to your testicles JOJO"
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "25f3296b",
 		type: "item",

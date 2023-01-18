@@ -1,11 +1,15 @@
 {
 	title: "Its not a wrench",
-	x: 22.0d,
-	y: -2.0d,
+	x: -10.5d,
+	y: -3.5d,
 	description: "or maybe it is a wrench",
 	text: [
 		"for environmental tech, you can mine stuff from the void and power stuff"
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "399fbf17",
 		type: "item",

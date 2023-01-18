@@ -1,11 +1,15 @@
 {
 	title: "Detroit: Become god",
-	x: 20.5d,
-	y: -2.0d,
+	x: -9.0d,
+	y: -3.5d,
 	description: "purple powder tastes yummy",
 	text: [
 		"Do you want to become god? Just find this a couple hundred times and with some stuff that will not be fun to get ezpz"
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "75200554",
 		type: "item",

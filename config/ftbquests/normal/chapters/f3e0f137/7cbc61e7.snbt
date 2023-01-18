@@ -1,13 +1,17 @@
 {
 	title: "The Ring of Greg",
-	x: 20.0d,
-	y: 3.5d,
+	x: -9.0d,
+	y: 2.0d,
 	description: "Dont use this mod, you'll hate yourself for it.",
 	text: [
 		"All of the ores for gregtech have been moved to the mining dimension.",
 		"Feel free to ignore it, theirs no harm in ignoring this painful mod.",
 		"And dont try going here to use the ores for other things, unless you get started in gregtech you cant use most of them."
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "c7d5d694",
 		type: "item",

@@ -1,0 +1,40 @@
+{
+	title: "Intro to Rubber",
+	x: 3.0d,
+	y: 1.5d,
+	description: "A very important material for early on.",
+	text: [
+		"Through harvesting Rubber Trees, you will gain Sticky Resin. Sticky resin will be used to hammer into Rubber Sheets, which can be used to cover cables.",
+		"Sticky Resin can also be used in the first Transistors, which are required for the first Tier One Circuits, which are required for LV machines."
+	],
+	dependencies: [
+		"9e038d72",
+		"a2e1ef0b"
+	],
+	tasks: [{
+		uid: "092ec664",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 438"
+		}]
+	},
+	{
+		uid: "38da1a81",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_plate 1 1068"
+		}]
+	}],
+	rewards: [{
+		uid: "2f8ed157",
+		type: "item",
+		item: "gregtech:meta_item_1 1 438",
+		count: 64
+	},
+	{
+		uid: "99c1f148",
+		type: "item",
+		item: "gregtech:meta_plate 1 1617",
+		count: 64
+	}]
+}

@@ -1,7 +1,7 @@
 {
 	title: "Blue Heart Canister",
-	x: 7.5d,
-	y: 8.0d,
+	x: 14.0d,
+	y: 1.5d,
 	description: "Fourth row of new hearts",
 	text: [
 		"Im sorry these are annoying to get, consider checking the bounty board if you want more.",

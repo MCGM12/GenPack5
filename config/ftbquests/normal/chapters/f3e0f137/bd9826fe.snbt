@@ -1,11 +1,15 @@
 {
 	title: "Hammer go bOnK",
-	x: 16.5d,
-	y: -2.0d,
+	x: -6.0d,
+	y: -3.5d,
 	description: "make immersive machine do machine thing",
 	text: [
 		"its a cool ol thing to make big machine"
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "de3462da",
 		type: "item",

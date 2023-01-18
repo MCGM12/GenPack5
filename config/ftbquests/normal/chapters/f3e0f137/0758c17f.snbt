@@ -1,0 +1,42 @@
+{
+	title: "I Like KFC, And So Do Dragons",
+	x: -7.5d,
+	y: 3.5d,
+	description: "And no, your not a dragonborn",
+	text: [
+		"Dragons WILL kick your shit in, do be mindful of them"
+	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
+	tasks: [{
+		uid: "6b809ea2",
+		type: "item",
+		items: [{
+			item: "iceandfire:dragonscales_red"
+		},
+		{
+			item: "iceandfire:dragonscales_green"
+		},
+		{
+			item: "iceandfire:dragonscales_bronze"
+		},
+		{
+			item: "iceandfire:dragonscales_gray"
+		},
+		{
+			item: "iceandfire:dragonscales_blue"
+		},
+		{
+			item: "iceandfire:dragonscales_white"
+		},
+		{
+			item: "iceandfire:dragonscales_sapphire"
+		},
+		{
+			item: "iceandfire:dragonscales_silver"
+		}],
+		ignore_nbt: 1b
+	}]
+}

@@ -1,12 +1,16 @@
 {
 	title: "Gun go brrt",
 	icon: "techguns:itemshared 1 3",
-	x: 14.0d,
-	y: 3.5d,
+	x: -4.5d,
+	y: 2.0d,
 	description: "Big shooty bang guns go boom",
 	text: [
 		"I hate those zombies with guns. You probably hate them too. You want to shoot them back? I gotchu."
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "e8903594",
 		type: "item",

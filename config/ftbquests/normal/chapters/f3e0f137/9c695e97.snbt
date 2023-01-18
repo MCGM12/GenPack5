@@ -1,11 +1,15 @@
 {
 	title: "Gotta Collect them all!",
-	x: 18.0d,
+	x: -4.5d,
 	y: 3.5d,
 	description: "Except some, I dont like those ones.",
 	text: [
 		"Make it from bounty board rewards, will give you a random pet from the wide variety of pets."
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "5cd9701f",
 		type: "item",

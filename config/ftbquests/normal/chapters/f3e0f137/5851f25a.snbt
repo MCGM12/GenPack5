@@ -1,8 +1,8 @@
 {
 	title: "Totally Normal Bread",
 	disable_toast: true,
-	x: 28.0d,
-	y: -7.0d,
+	x: 16.0d,
+	y: -5.5d,
 	shape: "hexagon",
 	description: "Might have a hint of the good good in it",
 	text: [

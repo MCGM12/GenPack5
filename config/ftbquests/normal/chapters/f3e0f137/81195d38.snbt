@@ -1,0 +1,21 @@
+{
+	title: "Tier 4 Cube",
+	x: 4.5d,
+	y: 3.0d,
+	description: "It's larger on the inside than outside",
+	text: [
+		"Now the dank/null has some pretty nice storage, probably can lug it around with you on adventures now."
+	],
+	dependencies: [
+		"652a71aa"
+	],
+	tasks: [{
+		uid: "820d80c6",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_3"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

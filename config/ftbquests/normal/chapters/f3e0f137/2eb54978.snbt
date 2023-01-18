@@ -1,0 +1,21 @@
+{
+	title: "Tier 5 Cube",
+	x: 5.5d,
+	y: 3.5d,
+	description: "Storing a mountain in a cube",
+	text: [
+		"3.2k Items per stack, and 45 stacks total? Thats like, enough to store everything!"
+	],
+	dependencies: [
+		"81195d38"
+	],
+	tasks: [{
+		uid: "15072ce6",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_4"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

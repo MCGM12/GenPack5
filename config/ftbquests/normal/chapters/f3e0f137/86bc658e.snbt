@@ -1,7 +1,7 @@
 {
 	title: "Ready To Do Chemistry?",
-	x: 29.5d,
-	y: -2.0d,
+	x: 17.5d,
+	y: -1.5d,
 	description: "Or make meth, either works",
 	text: [
 		"Chemical Dissolver takes chemical compounds and breaks them apart.",

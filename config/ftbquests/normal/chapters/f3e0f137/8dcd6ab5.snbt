@@ -1,11 +1,15 @@
 {
 	title: "The center of the earth",
-	x: 15.5d,
+	x: -9.0d,
 	y: -2.0d,
 	description: "a wee bit toasty innit",
 	text: [
 		"The power of the earth has never been so easy to access"
 	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
 	tasks: [{
 		uid: "44388920",
 		type: "item",

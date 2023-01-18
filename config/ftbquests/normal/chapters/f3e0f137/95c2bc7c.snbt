@@ -1,8 +1,8 @@
 {
 	title: "Moving Platforms",
 	icon: "movingelevators:elevator_block",
-	x: 22.0d,
-	y: 3.5d,
+	x: 2.5d,
+	y: 2.5d,
 	description: "Its like magic, it just works.",
 	text: [
 		"The Controller is how you move between floors. Put them above one another to set floor levels.",

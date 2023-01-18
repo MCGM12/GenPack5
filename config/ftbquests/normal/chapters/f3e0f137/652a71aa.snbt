@@ -1,0 +1,21 @@
+{
+	title: "Tier 3 Cube",
+	x: 5.5d,
+	y: 2.5d,
+	description: "Look ma, I can store a chest worth of different items!",
+	text: [
+		"Look at all those item slots, its actually useful for a variety of items now!"
+	],
+	dependencies: [
+		"80d8f103"
+	],
+	tasks: [{
+		uid: "08076083",
+		type: "item",
+		items: [{
+			item: "danknull:dank_null_2"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
