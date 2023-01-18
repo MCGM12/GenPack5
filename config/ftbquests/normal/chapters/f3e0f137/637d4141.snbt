@@ -1,12 +1,15 @@
 {
 	title: "For all of those extra heart needs",
-	x: 12.0d,
+	x: 18.0d,
 	y: 1.5d,
 	description: "Food doesnt give bonus health",
 	text: [
 		"There aren't many ways to boost your hp, this is an easy to understand way to boost your hp.",
 		"Equip it in your baubles. Then insert up to 10 heart canisters of each color.",
 		"Free hp amiright"
+	],
+	dependencies: [
+		"a5f5ff1d"
 	],
 	tasks: [{
 		uid: "fdec10b3",

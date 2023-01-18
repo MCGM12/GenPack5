@@ -1,0 +1,19 @@
+{
+	title: "Flint Upgrade",
+	x: 1.0d,
+	y: 2.5d,
+	description: "Tier 1",
+	text: [
+		"Gives 2x base stack storage."
+	],
+	dependencies: [
+		"52cc036b"
+	],
+	tasks: [{
+		uid: "2400b7ee",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage"
+		}]
+	}]
+}

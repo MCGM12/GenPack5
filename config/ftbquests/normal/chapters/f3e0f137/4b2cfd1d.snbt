@@ -1,0 +1,21 @@
+{
+	title: "You're A Wizard Harry",
+	x: -10.5d,
+	y: 0.5d,
+	description: "The voices in my head are calling me stud muffin",
+	text: [
+		"Pick up some of those shiny vis crystals you find all over the place and then you can learn how to make it via yee ol book you find from sleeping"
+	],
+	dependencies: [
+		"e966f173"
+	],
+	hide: true,
+	tasks: [{
+		uid: "da72a22e",
+		type: "item",
+		items: [{
+			item: "thaumcraft:thaumonomicon"
+		}],
+		ignore_nbt: 1b
+	}]
+}

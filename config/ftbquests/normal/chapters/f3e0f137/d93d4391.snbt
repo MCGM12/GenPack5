@@ -1,11 +1,14 @@
 {
 	title: "Big Portal",
-	x: 12.0d,
+	x: 13.0d,
 	y: -1.5d,
 	description: "For all your portal needs",
 	text: [
 		"Portality is a mod that lets you make portals(wow) that can transport entities, power, items, and liquids, and even across dimensions!",
 		"its a mutliblock structure that has a minimum size of 5x5x3, but it can be longer to let it transport farther distances."
+	],
+	dependencies: [
+		"65e74138"
 	],
 	tasks: [{
 		uid: "98799277",

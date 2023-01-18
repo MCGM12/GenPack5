@@ -1,7 +1,14 @@
 {
+	title: "Your First Circuit",
 	x: 6.0d,
 	y: 4.0d,
 	shape: "hexagon",
+	description: "The very first (and most inefficiently crafted) circuit.",
+	text: [
+		"These are the backbone of every machine you will make from now on. Every single machine will require a circuit of their respective tier, so make sure to make lots of these.",
+		"Despite being the first available, they are most expensive and most inefficient to craft. Each tier of voltage have 3-4 different circuits, each being more efficient to make, but requiring the next voltage tier typically.",
+		"I highly recommend to invest in the next tier of LV circuits as soon as possible, and the next tier of MV, etc etc."
+	],
 	dependencies: [
 		"c806b42c",
 		"475c0af2",

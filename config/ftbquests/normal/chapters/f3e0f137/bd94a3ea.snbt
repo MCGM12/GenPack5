@@ -1,7 +1,7 @@
 {
 	title: "Green Heart Canister",
-	x: 13.0d,
-	y: 2.5d,
+	x: 19.0d,
+	y: 3.0d,
 	description: "Third row of new hearts",
 	text: [
 		"These can be a little tricky to get, especially if you want the full set of 10. Good luck :)",

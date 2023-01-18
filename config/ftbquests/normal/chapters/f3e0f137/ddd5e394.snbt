@@ -1,0 +1,19 @@
+{
+	title: "The Void On A Peice Of Wood",
+	x: 2.0d,
+	y: 1.0d,
+	description: "What do you mean, you don't need 200 stacks of cobblestone?",
+	text: [
+		"I hate having tons of cobblestone. Now there is a fix."
+	],
+	dependencies: [
+		"52cc036b"
+	],
+	tasks: [{
+		uid: "54a99b4d",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_void"
+		}]
+	}]
+}

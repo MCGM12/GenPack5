@@ -1,0 +1,19 @@
+{
+	title: "Iron Upgrade",
+	x: 2.0d,
+	y: 3.0d,
+	description: "Tier 2",
+	text: [
+		"Gives 4x base stack storage."
+	],
+	dependencies: [
+		"8f4eb0cf"
+	],
+	tasks: [{
+		uid: "e6ba77fc",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 1"
+		}]
+	}]
+}

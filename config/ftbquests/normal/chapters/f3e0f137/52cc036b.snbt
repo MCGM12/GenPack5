@@ -1,0 +1,19 @@
+{
+	title: "The Template To Mass Storage",
+	x: 2.0d,
+	y: 2.0d,
+	description: "All upgrades need this",
+	text: [
+		"All of the storage upgrades in the mod requires this, so you will likely need a few."
+	],
+	dependencies: [
+		"636357a2"
+	],
+	tasks: [{
+		uid: "34b35315",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_template"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Emerald Upgrade",
+	x: 1.0d,
+	y: 4.5d,
+	description: "Tier 5",
+	text: [
+		"Gives 32x base stack storage."
+	],
+	dependencies: [
+		"10133f5d"
+	],
+	tasks: [{
+		uid: "8adc605f",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 4"
+		}]
+	}]
+}

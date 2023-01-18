@@ -1,6 +1,6 @@
 {
 	title: "Self Fueling And Wireless Battery",
-	x: 13.0d,
+	x: 14.0d,
 	y: -2.5d,
 	description: "You can feed it into itself!",
 	text: [

@@ -1,0 +1,19 @@
+{
+	title: "Budder Ingot",
+	x: 18.0d,
+	y: 0.0d,
+	description: "Remember those days?",
+	text: [
+		"I feel old. But I won't feel old if you get some gold."
+	],
+	dependencies: [
+		"65e74138"
+	],
+	tasks: [{
+		uid: "0479ae62",
+		type: "item",
+		items: [{
+			item: "minecraft:gold_ingot"
+		}]
+	}]
+}

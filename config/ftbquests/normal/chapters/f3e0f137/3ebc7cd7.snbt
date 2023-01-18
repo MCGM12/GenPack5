@@ -1,0 +1,19 @@
+{
+	title: "Gold Upgrade",
+	x: 1.0d,
+	y: 3.5d,
+	description: "Tier 3",
+	text: [
+		"gives 8x base stack storage."
+	],
+	dependencies: [
+		"d9cef5d2"
+	],
+	tasks: [{
+		uid: "eaf14234",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 2"
+		}]
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	title: "Diamond Upgrade",
+	x: 2.0d,
+	y: 4.0d,
+	description: "Tier 4",
+	text: [
+		"Gives 16x base stack storage."
+	],
+	dependencies: [
+		"3ebc7cd7"
+	],
+	tasks: [{
+		uid: "c3322126",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_storage 1 3"
+		}]
+	}]
+}

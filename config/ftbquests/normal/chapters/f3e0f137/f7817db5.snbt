@@ -1,6 +1,6 @@
 {
 	title: "Item transport",
-	x: 11.0d,
+	x: 12.0d,
 	y: -2.5d,
 	description: "Item in, item out",
 	text: [

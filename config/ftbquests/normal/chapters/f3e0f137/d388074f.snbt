@@ -1,7 +1,7 @@
 {
 	title: "Very Useful Medical Compound",
-	x: 17.5d,
-	y: -4.0d,
+	x: 13.0d,
+	y: 4.5d,
 	description: "It just so happens it makes me feel good",
 	text: [
 		"It's meth."

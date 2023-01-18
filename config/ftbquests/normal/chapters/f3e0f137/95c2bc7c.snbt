@@ -1,8 +1,8 @@
 {
 	title: "Moving Platforms",
 	icon: "movingelevators:elevator_block",
-	x: 2.5d,
-	y: 2.5d,
+	x: 3.0d,
+	y: -1.5d,
 	description: "Its like magic, it just works.",
 	text: [
 		"The Controller is how you move between floors. Put them above one another to set floor levels.",
@@ -10,6 +10,9 @@
 		"The display isn't mandatory, but it makes things look nicer, so its mandatory.",
 		"The Remote Elevator Panel is well, a remote version that you can put to the side.",
 		"Also you can disguise the blocks. Just right click it with the block you want to use."
+	],
+	dependencies: [
+		"6c67f458"
 	],
 	tasks: [{
 		uid: "f5da73b1",

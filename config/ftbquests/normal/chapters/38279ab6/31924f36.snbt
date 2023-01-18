@@ -5,7 +5,8 @@
 	description: "A very important material for early on.",
 	text: [
 		"Through harvesting Rubber Trees, you will gain Sticky Resin. Sticky resin will be used to hammer into Rubber Sheets, which can be used to cover cables.",
-		"Sticky Resin can also be used in the first Transistors, which are required for the first Tier One Circuits, which are required for LV machines."
+		"Sticky Resin can also be used in the first Transistors, which are required for the first Tier One Circuits, which are required for LV machines.",
+		"Note: putting Wood Planks in the reward because you'll need them, and they have no non-Gregtech recipe for some reason. I'd reccomend investing in a compressor as your second machine to start making those as well."
 	],
 	dependencies: [
 		"9e038d72",
@@ -35,6 +36,6 @@
 		uid: "99c1f148",
 		type: "item",
 		item: "gregtech:meta_plate 1 1617",
-		count: 64
+		count: 256
 	}]
 }

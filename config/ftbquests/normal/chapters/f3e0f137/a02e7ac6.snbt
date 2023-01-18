@@ -1,7 +1,7 @@
 {
 	title: "Liquify No Jutsu",
-	x: 17.0d,
-	y: -2.5d,
+	x: 12.0d,
+	y: 3.0d,
 	description: "Delectable liquid oxygen, just what I needed today",
 	text: [
 		"The Liquifier can turn all those compounds into liquids, its pretty handy for making some things in tech mods easier."

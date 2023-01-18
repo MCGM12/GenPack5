@@ -1,7 +1,8 @@
 {
-	title: "Bonemeal won't help how short Gen is, however you can use that wood for a cool Crafting Table!",
+	title: "Table Craft",
 	x: 5.5d,
 	y: 0.0d,
+	description: "Bonemeal won't help how short Gen is, however you can use that wood for a cool Crafting Table!",
 	text: [
 		"Sorry Gen, You're short and will always be short. J loves you for being short tho!"
 	],

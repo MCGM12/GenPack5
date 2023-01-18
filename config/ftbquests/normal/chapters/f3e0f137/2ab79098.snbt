@@ -1,0 +1,26 @@
+{
+	title: "I HAVE BECOME DEATH, DESTROYER OF WORLDS",
+	x: -6.0d,
+	y: 5.0d,
+	description: "For all intent and purposes, dont make this. You will destroy the server. I am not joking.",
+	text: [
+		"The Redmatter misile will spawn a black hole. Yes, you heard it correctly. A black hole. It will infinitely grow. It will never stop unless an antimatter bomb is dropped into it."
+	],
+	dependencies: [
+		"3e06fd2c"
+	],
+	tasks: [{
+		uid: "5f9d0977",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					explosive: {}
+				}
+			},
+			id: "icbmclassic:missile",
+			Damage: 23s
+		}],
+		ignore_nbt: 1b
+	}]
+}

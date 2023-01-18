@@ -1,6 +1,6 @@
 {
 	title: "It's An Iron Ingot",
-	x: 12.0d,
+	x: 13.0d,
 	y: 0.0d,
 	description: "You should go mining NOW",
 	text: [

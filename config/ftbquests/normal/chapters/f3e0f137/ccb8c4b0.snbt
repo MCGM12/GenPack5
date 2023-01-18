@@ -1,0 +1,19 @@
+{
+	title: "1 Stack Storage",
+	x: 1.0d,
+	y: 1.5d,
+	description: "You can upgrade the storage if you want more than just 1 stack",
+	text: [
+		"Very useful if you want a single stack storage, some things are nice to keep a small stock of, and just void the rest."
+	],
+	dependencies: [
+		"52cc036b"
+	],
+	tasks: [{
+		uid: "204a2eb3",
+		type: "item",
+		items: [{
+			item: "storagedrawers:upgrade_one_stack"
+		}]
+	}]
+}

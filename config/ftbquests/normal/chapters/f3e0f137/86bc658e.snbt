@@ -1,11 +1,14 @@
 {
 	title: "Ready To Do Chemistry?",
-	x: 17.5d,
-	y: -1.5d,
+	x: 13.0d,
+	y: 1.5d,
 	description: "Or make meth, either works",
 	text: [
 		"Chemical Dissolver takes chemical compounds and breaks them apart.",
 		"It's a good idea to do this a couple of times to make sure you have a backlog of basic elements."
+	],
+	dependencies: [
+		"65e74138"
 	],
 	tasks: [{
 		uid: "c4326ef3",

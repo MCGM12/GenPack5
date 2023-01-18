@@ -1,0 +1,31 @@
+{
+	title: "Storage Drawers",
+	x: 3.0d,
+	y: 1.5d,
+	description: "The wall of chests are no more",
+	text: [
+		"Can hold multiple stacks of a single item type, or up to 4 based on what drawer you made.",
+		"Can be upgraded as well!"
+	],
+	dependencies: [
+		"6c67f458"
+	],
+	tasks: [{
+		uid: "d793c2dd",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "drawerBasic",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any drawerBasic"
+				}
+			}
+		}]
+	}]
+}

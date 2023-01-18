@@ -1,8 +1,8 @@
 {
 	title: "Not To Be Confused With Fusion",
 	icon: "alchemistry:fission_controller",
-	x: 16.0d,
-	y: -4.5d,
+	x: 11.5d,
+	y: 5.0d,
 	description: "Turn the heavy stuff into lighter stuff",
 	text: [
 		"Breaks apart elements into lighter versions. Can be exceedingly useful.",

@@ -1,15 +1,21 @@
 {
+	title: "RF to EU",
 	x: 7.0d,
 	y: 0.0d,
+	description: "Congrats- now you can use any RF/FE generator and convert it to EU.",
+	text: [
+		"Despite the amount of energy producers that Gregtech has, it is very difficult to start Gregtech with EU only energy. Gregtech machines may only take EU, but with these Energy Convertors, you can convert RF into EU with a 4:1 ratio."
+	],
 	dependencies: [
+		"adb0c0fd",
 		"9d229dd5"
 	],
 	size: 2.0d,
 	tasks: [{
-		uid: "7e260315",
+		uid: "93d1acff",
 		type: "item",
 		items: [{
-			item: "gregtech:machine 1 1316"
+			item: "gregtech:machine 1 1675"
 		}]
 	}]
 }
