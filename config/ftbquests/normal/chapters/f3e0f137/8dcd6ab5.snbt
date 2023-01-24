@@ -11,10 +11,12 @@
 	],
 	hide: true,
 	tasks: [{
-		uid: "44388920",
+		uid: "c15fb188",
 		type: "item",
 		items: [{
-			item: "embers:mech_core"
-		}]
+			item: "embers:codex"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
 	}]
 }

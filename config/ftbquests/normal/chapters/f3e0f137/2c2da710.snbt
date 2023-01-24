@@ -1,6 +1,12 @@
 {
+	title: "Copper Chest",
 	x: 18.0d,
 	y: -1.5d,
+	description: "Smol chest",
+	text: [
+		"You can upgrade the chests to increase their storage, you will just have to work through each tier to get to the higher ones.",
+		"No Skipping Tiers."
+	],
 	dependencies: [
 		"a5f5ff1d"
 	],

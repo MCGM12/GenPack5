@@ -1,6 +1,11 @@
 {
+	title: "Iron Chest",
 	x: 19.0d,
 	y: -2.0d,
+	description: "Pretty mid",
+	text: [
+		"Its the size of a double chest, so thats pretty cool I guess."
+	],
 	dependencies: [
 		"2c2da710"
 	],

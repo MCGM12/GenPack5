@@ -1,6 +1,12 @@
 {
+	title: "Silver Chest",
 	x: 18.0d,
 	y: -2.5d,
+	description: "Long list of goods",
+	text: [
+		"its a pretty large chest, but It could be larger.",
+		"MAKE IT BIGGER!"
+	],
 	dependencies: [
 		"99e42866"
 	],
