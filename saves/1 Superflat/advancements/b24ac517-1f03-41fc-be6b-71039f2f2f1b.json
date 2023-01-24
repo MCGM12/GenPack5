@@ -1,0 +1,116 @@
+{
+  "inventorypets:inventorypets/root": {
+    "criteria": {
+      "auto": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2023-01-17 22:49:54 -0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-01-17 22:49:53 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2023-01-17 23:03:45 -0800"
+    },
+    "done": true
+  },
+  "nuclearcraft:processors/alloy_furnace": {
+    "criteria": {
+      "has_item": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2023-01-17 22:51:23 -0800"
+    },
+    "done": true
+  },
+  "movingelevators:recipes/elevator_block": {
+    "criteria": {
+      "recipe_condition": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2023-01-17 23:03:45 -0800"
+    },
+    "done": true
+  },
+  "trashcans:recipes/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2023-01-17 23:03:45 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2023-01-17 23:03:45 -0800"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2023-01-17 22:56:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2023-01-17 22:51:23 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-01-17 22:32:40 -0800"
+    },
+    "done": false
+  },
+  "trashcans:recipes/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2023-01-17 22:32:40 -0800"
+    },
+    "done": true
+  }
+}

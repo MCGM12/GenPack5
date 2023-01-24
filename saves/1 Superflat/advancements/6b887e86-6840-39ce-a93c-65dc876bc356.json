@@ -1,0 +1,62 @@
+{
+  "inventorypets:inventorypets/root": {
+    "criteria": {
+      "auto": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  },
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  },
+  "movingelevators:recipes/elevator_block": {
+    "criteria": {
+      "recipe_condition": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:root": {
+    "criteria": {
+      "crafting_table": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  },
+  "trashcans:recipes/energy_trash_can": {
+    "criteria": {
+      "recipe_condition": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-01-14 16:19:11 -0800"
+    },
+    "done": false
+  },
+  "movingelevators:recipes/movingelevators/elevator_block": {
+    "criteria": {
+      "can_unlock_recipe": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  },
+  "trashcans:recipes/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2023-01-14 16:19:11 -0800"
+    },
+    "done": true
+  }
+}
